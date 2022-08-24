@@ -66,6 +66,15 @@
  
  Stack^2^ `no superscript ` numerics no difference
  
+ --- 
+ `add a horizontal line && table`
+ 
+ |The table about Me:| 
+| ------ |
+ |When you reach coding there's not much to say | 
+ ` editing on a branch `
+ 
+ 
  
  
  
